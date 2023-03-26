@@ -1,4 +1,4 @@
-package io.github.jassonluiz.jpaandhibernate;
+ package io.github.jassonluiz.jpaandhibernate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
